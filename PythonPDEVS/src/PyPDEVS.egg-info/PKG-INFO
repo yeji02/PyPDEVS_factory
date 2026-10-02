@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: PyPDEVS
+Version: 2.4.1
+Summary: Python Parallel DEVS simulator
+Home-page: http://msdl.cs.mcgill.ca/people/yentl
+Author: Yentl Van Tendeloo
+Author-email: Yentl.VanTendeloo@uantwerpen.be
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
